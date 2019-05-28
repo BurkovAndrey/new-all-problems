@@ -1,0 +1,4 @@
+﻿  6 problem.c
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\проекты\6 problem\6 problem\6 problem.c(66): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\проекты\6 problem\6 problem\6 problem.c(67): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  6 problem.vcxproj -> C:\Users\dryux\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\c proga\проекты\6 problem\Debug\6 problem.exe

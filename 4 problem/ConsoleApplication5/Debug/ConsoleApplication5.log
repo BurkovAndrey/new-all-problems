@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication5.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.c
+  4 problem.c
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\products\test\all-problems\4 problem\consoleapplication5\4 problem.c(19): warning C4101: x1: неиспользованная локальная переменная
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\products\test\all-problems\4 problem\consoleapplication5\4 problem.c(58): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  ConsoleApplication5.vcxproj -> C:\Users\dryux\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\c proga\products\test\all-problems\4 problem\Debug\4 problem.exe

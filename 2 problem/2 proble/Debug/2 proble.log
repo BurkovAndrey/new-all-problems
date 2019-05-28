@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (2 proble.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  2 problem.c
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\products\test\all-problems\2 problem\2 proble\2 problem.c(32): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  2 proble.vcxproj -> C:\Users\dryux\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\c proga\products\test\all-problems\2 problem\Debug\2 problem.exe

@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (7 problem.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  9 promlems.vcxproj -> C:\Users\dryux\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\c proga\products\test\all-problems\9 promlems\Debug\9 promlems.exe

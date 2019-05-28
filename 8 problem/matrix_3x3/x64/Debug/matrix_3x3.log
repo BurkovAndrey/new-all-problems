@@ -1,0 +1,9 @@
+﻿  matrix_3x3.c
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\products\test\all-problems\8 problem\matrix_3x3\matrix_3x3.c(12): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\products\test\all-problems\8 problem\matrix_3x3\matrix_3x3.c(20): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\products\test\all-problems\8 problem\matrix_3x3\matrix_3x3.c(39): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\products\test\all-problems\8 problem\matrix_3x3\matrix_3x3.c(127): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\products\test\all-problems\8 problem\matrix_3x3\matrix_3x3.c(141): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\products\test\all-problems\8 problem\matrix_3x3\matrix_3x3.c(171): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+c:\users\dryux\appdata\roaming\microsoft\windows\start menu\programs\c proga\products\test\all-problems\8 problem\matrix_3x3\matrix_3x3.c(188): warning C4129: m: неизвестная escape-последовательность
+  matrix_3x3.vcxproj -> C:\Users\dryux\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\c proga\products\test\all-problems\8 problem\x64\Debug\matrix_3x3.exe
